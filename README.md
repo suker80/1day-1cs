@@ -2,7 +2,7 @@
 1일 1CS 정리 노트
 
 # 네트워크
-[고정 IP와 유동 IP에 대하여 설명해주세요]()
+[고정 IP와 유동 IP에 대하여 설명해주세요](https://velog.io/@suker80/Day-5.-%EA%B3%A0%EC%A0%95-IP%EC%99%80-%EC%9C%A0%EB%8F%99-IP)
 
 [멀티플렉싱과 디멀티플렉싱](https://velog.io/@suker80/Day4.-%EC%A0%84%EC%86%A1%EA%B3%84%EC%B8%B5%EC%97%90%EC%84%9C-%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%89%EC%8B%B1%EA%B3%BC-%EB%94%94%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%89%EC%8B%B1)
 
